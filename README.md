@@ -1,16 +1,28 @@
-## Hi there 👋
+# Привет, я Фёдор! 👋
 
-<!--
-**fdorichev/fdorichev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://komarev.com" alt="Просмотры профиля" />
+</p>
 
-Here are some ideas to get you started:
+## 🚀 Обо мне
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Я студент **Санкт-Петербургского колледжа телекоммуникаций им. Э. Т. Кренкеля** (СПбКТ) и будущий **SRE-инженер**. Моя цель — научиться автоматизировать рутинные процессы, повышать отказоустойчивость систем и предотвращать крупные сбои еще до того, как они произойдут. 
+
+У меня есть отличный ментор — мой папа, который уже работает в SRE, поэтому я заряжен на крутой результат и системный подход к обучению.
+
+## 🛠 Технологии и навыки
+
+* **Языки программирования:** Python (базовый уровень, активно развиваю для автоматизации)
+* **Операционные системы:** Linux (Ubuntu/Debian), Windows
+
+## 🎯 Мои цели до окончания колледжа
+
+* 💻 Глубоко изучить методологию SRE, CI/CD, Docker и системы мониторинга (Prometheus/Grafana).
+* 💼 Найти первую работу/стажировку и сформировать надежную финансовую подушку безопасности.
+* 🥁 Накопить на свою мечту — электронную барабанную установку **Roland**!
+
+---
+
+### 📫 Как со мной связаться:
+[![Telegram](https://shields.io)](https://t.me)
+[![Email](https://shields.io)](mailto:fdorichev@gmail.com)
